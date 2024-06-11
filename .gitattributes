@@ -4,3 +4,4 @@ toyota_innova_2018_ambulance.bussidmod filter=lfs diff=lfs merge=lfs -text
 mobil_polisi_water_canon.bussidmod filter=lfs diff=lfs merge=lfs -text
 mobil_polisi_korps_brimob.bussidmod filter=lfs diff=lfs merge=lfs -text
 mobil_polisi_ford_taurus.bussidmod filter=lfs diff=lfs merge=lfs -text
+mitsubishi_l300_ambulance.bussidmod filter=lfs diff=lfs merge=lfs -text
