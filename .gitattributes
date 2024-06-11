@@ -6,3 +6,4 @@ mobil_polisi_korps_brimob.bussidmod filter=lfs diff=lfs merge=lfs -text
 mobil_polisi_ford_taurus.bussidmod filter=lfs diff=lfs merge=lfs -text
 mitsubishi_l300_ambulance.bussidmod filter=lfs diff=lfs merge=lfs -text
 mclaren_f1_police.bussidmod filter=lfs diff=lfs merge=lfs -text
+lamborghini_gallardo_police.bussidmod filter=lfs diff=lfs merge=lfs -text
