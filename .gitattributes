@@ -13,3 +13,4 @@ dodge_charger_police filter=lfs diff=lfs merge=lfs -text
 dapc_wolf_korps_brimob.bussidmod filter=lfs diff=lfs merge=lfs -text
 dodge_charger_police.bussidmod filter=lfs diff=lfs merge=lfs -text
 bugatti_divo_2023_police.bussidmod filter=lfs diff=lfs merge=lfs -text
+barracuda_brimob.bussidmod filter=lfs diff=lfs merge=lfs -text
