@@ -25,3 +25,4 @@ mobil_satpol_pp.bussidmod filter=lfs diff=lfs merge=lfs -text
 suzuki_jimny.bussidmod filter=lfs diff=lfs merge=lfs -text
 toyota_fortuner_2.8_vrz.bussidmod filter=lfs diff=lfs merge=lfs -text
 toyota_hilux_sabhara_pengurai_massa.bussidmod filter=lfs diff=lfs merge=lfs -text
+wuling_air_ev_patwal.bussidmod filter=lfs diff=lfs merge=lfs -text
