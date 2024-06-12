@@ -19,3 +19,4 @@ isuzu_nmr_brimob.bussidmod filter=lfs diff=lfs merge=lfs -text
 bmw_530i_g30_m5_performance.bussidmod filter=lfs diff=lfs merge=lfs -text
 bmw_m3_competition_patwal.bussidmod filter=lfs diff=lfs merge=lfs -text
 bmw_m3_competition.bussidmod filter=lfs diff=lfs merge=lfs -text
+hino_500_ng_hsd_cpo_non_topi.bussidmod filter=lfs diff=lfs merge=lfs -text
