@@ -17,3 +17,4 @@ barracuda_brimob.bussidmod filter=lfs diff=lfs merge=lfs -text
 truk[[:space:]]elf[[:space:]]nkr[[:space:]]derek[[:space:]]mobil.bussidmod filter=lfs diff=lfs merge=lfs -text
 truk_elf_nkr_derek_mobil.bussidmod filter=lfs diff=lfs merge=lfs -text
 isuzu_nmr_brimob.bussidmod filter=lfs diff=lfs merge=lfs -text
+bmw_530i_g30_m5_performance.bussidmod filter=lfs diff=lfs merge=lfs -text
