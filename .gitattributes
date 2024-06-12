@@ -19,3 +19,4 @@ toyota_hiace_commuter_ambulance.bussidmod filter=lfs diff=lfs merge=lfs -text
 toyota_innova_2018_ambulance.bussidmod filter=lfs diff=lfs merge=lfs -text
 truk_elf_nkr_derek_mobil.bussidmod filter=lfs diff=lfs merge=lfs -text
 “.bussidmod” filter=lfs diff=lfs merge=lfs -text
+lamborghini_reventon_polres.bussidmod filter=lfs diff=lfs merge=lfs -text
