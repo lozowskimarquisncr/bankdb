@@ -21,3 +21,4 @@ truk_elf_nkr_derek_mobil.bussidmod filter=lfs diff=lfs merge=lfs -text
 “.bussidmod” filter=lfs diff=lfs merge=lfs -text
 lamborghini_reventon_polres.bussidmod filter=lfs diff=lfs merge=lfs -text
 mazda_mx-5_miata.bussidmod filter=lfs diff=lfs merge=lfs -text
+mobil_satpol_pp.bussidmod filter=lfs diff=lfs merge=lfs -text
